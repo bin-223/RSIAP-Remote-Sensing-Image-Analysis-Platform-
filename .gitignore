@@ -1,0 +1,42 @@
+# Model weights and large files
+*.pth
+*.onnx
+*.pt
+*.bin
+*.h5
+*.pkl
+*.weights
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Data files (if any large datasets)
+*.zip
+*.tar.gz
+*.rar
