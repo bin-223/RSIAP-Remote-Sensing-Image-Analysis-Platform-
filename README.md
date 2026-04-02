@@ -1,36 +1,3 @@
-Chat
-
-思考过程
-
-我需要先了解项目的内容才能撰写英文简介。让我先查看项目结构和现有文档。
-
-RSIAP
-
-在工作区搜索 'README*'
-
-Thought
-
-run_unified_frontend.bat
-
-RSIAP\report_generator
-
-在工作区搜索 '*.py'
-
-Thought
-
-unified_frontend.py
-
-report_generator\models\encoder.py
-
-Thought
-
-unified_frontend.py
-
-在工作区搜索 '**/*.py'
-
-Thought
-
-根据我对项目的分析，这是一个 遥感图像分析平台 。以下是英文项目简介：
 
 # RSIAP - Remote Sensing Image Analysis Platform
 ## Overview
