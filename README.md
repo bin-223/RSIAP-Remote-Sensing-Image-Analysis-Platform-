@@ -52,5 +52,5 @@ The application will automatically:
 2. Find an available port (8501-8510)
 3. Launch the Streamlit web server
 4. Open the browser interface
-5. ![143ac5b8f7629438dbed50b8e2ba3817](https://github.com/user-attachments/assets/f4d06d1d-6305-435f-9140-2e969c495666)
+
 
